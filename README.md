@@ -6,7 +6,7 @@ Uygulama için sizinle paylaşılan link ile oluşturulan Github kod deposu (rep
 
 **Dosya içerisinde tanımlanacak fonksiyonlar:** 
 
-![](hafta3_lab_bilgi/img1.png)
+![](hafta5_lab_bilgi/img1.png)
 
 **Yükleyeceğiniz dosya ile ilgili önemli noktalar:**  
 
